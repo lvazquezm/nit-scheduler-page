@@ -1,0 +1,16 @@
+/* footer.css */
+
+/* Add your custom styles here */
+.footer {
+    background-color: #dedede;
+    padding: 20px;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+  }
+
+.footer p{
+    font-size: 1.25rem;
+    margin: auto;
+    color: #4d4d4d;
+}
